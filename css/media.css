@@ -1,0 +1,35 @@
+@media(max-width:1760px){
+    .content-item__box{
+        padding: 0;
+    }
+}
+@media(max-width:1645px){
+    .title{
+       max-width: 400px;
+       height: 600px;
+        
+    }
+
+}
+@media(max-width:1580px){
+    .content-item__box{
+        flex-wrap: wrap;
+        gap:30px;
+    }        
+}
+@media(max-width:1450px){
+.back-left{
+    padding-left: 104px;
+}
+.logo{
+    left: 104px;
+}
+.slick-dots{
+    left: 104px;
+}
+}
+@media(max-width:1420px){
+    .form-info{
+        display: block;
+    }
+}
